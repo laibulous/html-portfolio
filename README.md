@@ -3,10 +3,12 @@
 This is my **first hands-on web development project**, built to practice **basic HTML structure** and **semantic HTML elements**.  
 It serves as a simple personal portfolio and a learning milestone as I begin my journey in web development.
 
+---
 
 ## 🌐 Live Demo
 👉 https://laibulous.github.io/html-portfolio/
 
+---
 
 ## 📌 Project Overview
 
